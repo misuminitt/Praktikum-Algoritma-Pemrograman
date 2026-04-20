@@ -1,2 +1,2 @@
-# project-alpro
+# Praktikum-Algoritma-Pemrograman
 Algoritma Pemrograman UAD
